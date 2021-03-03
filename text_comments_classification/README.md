@@ -7,4 +7,5 @@
 - **Models reviewed:** LogisticRegression, LinearRegression, RandomForestClassifier, Lazypredict, SVC
 
 [Click here to open the project made with TFIDF](https://github.com/Andrey-Kosov/Projects/blob/main/text_comments_classification/text_comments_classification_TFIDF.ipynb)
+
 [Click here to open the project made with BERT](https://github.com/Andrey-Kosov/Projects/blob/main/text_comments_classification/text_classification_BERT.ipynb)
