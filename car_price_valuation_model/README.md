@@ -6,4 +6,4 @@
 - **Libraries used:** Pandas, Numpy, Matplotlib, Scikit-Learn, Plotly Express, Seaborn
 - **Models reviewed:** LightGBM, LinearRegression, DecisionTreeRegressor, KNeighborsClassifier, RandomForestRegressor, CatBoostRegressor
 
-[Click here to open the project](https://github.com/Andrey-Kosov/Projects/blob/main/car_price_valuation_model/car_price_evaluation.ipynb)
+[**Click here to open the project**](https://github.com/Andrey-Kosov/Projects/blob/main/car_price_valuation_model/car_price_evaluation.ipynb)
