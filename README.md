@@ -11,10 +11,14 @@
 **Models used:** LightGBM,  LinearRegression, RandomForestRegressor, DecisionTreeRegressor, CatBoostRegressor, DummyRegressor,
 
 ## Projects:
-- [Car price valuation model](https://github.com/Andrey-Kosov/Projects/tree/main/car_price_valuation_model) . 
+- **[Car price valuation model]**(https://github.com/Andrey-Kosov/Projects/tree/main/car_price_valuation_model)
   - **Key points:** Gradient boosting, Gradient descent, Data Preprocessing, Cross-validation
   - **Libraries used:** Pandas, Numpy, Matplotlib, Scikit-Learn, Plotly Express, Seaborn
   - **Models reviewd:** LightGBM, LinearRegression, DecisionTreeRegressor, KNeighborsClassifier, RandomForestRegressor, CatBoostRegressor
+- **[Predicting the number of taxi orders]**(https://github.com/Andrey-Kosov/Projects/tree/main/time_series_taxi_orders)
+  - **Key points:** Time series: Resampling, Rolling mean, Trends, Seasonality, Residuals, Time series differences
+  - **Libraries used:** Statsmodels, Matplotlib, Scikit-Learn, Plotly Express, Seaborn, Pandas, Numpy
+  - **Models reviewd:** AutoReg, CatBoostRegressor, LinearRegression, LogisticRegression, RandomForestRegressor 
 
 
 
