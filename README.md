@@ -1,6 +1,6 @@
 # Data Science projects
 
-## Here are the projects that I completed during the course of the Yandex Practicum on the Data Science program
+### Here are the projects that I completed during the course of the Yandex Practicum on the Data Science program
 
 #### **All projects are done in Python in Jupyter Notebook.**
 
