@@ -6,7 +6,7 @@
 
 **The data was provided by Yandex Practucum as .csv files, as well as data received through SQL (PostgreSQL) queries from Yandex Practicum databases.**
 
-**Libraries and frameworks used:** Pandas, Numpy, Matplotlib, Scikit-Learn, PySpark, Plotly Express, Seaborn, NLTK, PyTorch, PyTorch-Transformers, Tensorflow, Keras
+**Libraries and frameworks used:** Pandas, Numpy, Matplotlib, Scikit-Learn, PySpark, Plotly Express, Seaborn, NLTK, PyTorch, PyTorch-Transformers, TensorFlow, Keras, PIL
 
 **Models used:** LightGBM,  LinearRegression, LogisticRegression, RandomForestRegressor, RandomForestClassifier, DecisionTreeRegressor, DecisionTreeClassifier, CatBoostRegressor, DummyRegressor, KNeighborsClassifier, AutoReg, SVC
 
