@@ -35,5 +35,8 @@
   - **Key points:** Hypothesis testing, P-value, Statistical Data Analysis, Data Preprocessing, Probability theory, Business desicions
   - **Libraries used:** Pandas, Numpy, Math, Matplotlib, SciPy 
 
-
+- [**Age recognition from a photo**](https://nbviewer.jupyter.org/github/Andrey-Kosov/Projects/blob/main/computer_vision_age_recognition/computer_vision.ipynb)
+  - **Key points:** Computer Vision, Neural Networks, Image Processing
+  - **Libraries used:** Tensorflow, Keras, NumPy, Pandas, PIL, Plotly Express
+  - **Models reviewed:** ResNet50
 
