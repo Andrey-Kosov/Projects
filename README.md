@@ -40,3 +40,7 @@
   - **Libraries used:** Tensorflow, Keras, NumPy, Pandas, PIL, Plotly Express
   - **Models reviewed:** ResNet50
 
+- [**Borrower Reliability Research**](https://nbviewer.jupyter.org/github/Andrey-Kosov/Projects/blob/main/preprocessing/preprocessing.ipynb)
+  - **Key points:** Data Preprocessing, Data Cleaning, Data Analysis
+  - **Libraries used:** Pandas, pymystem3, collections
+
