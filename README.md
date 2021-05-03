@@ -11,6 +11,11 @@
 **Models used:** LightGBM,  LinearRegression, LogisticRegression, RandomForestRegressor, RandomForestClassifier, DecisionTreeRegressor, DecisionTreeClassifier, CatBoostRegressor, DummyRegressor, KNeighborsClassifier, AutoReg, SVC
 
 ## Projects:
+- [**Predicting customer churn for a telecom company**](https://nbviewer.jupyter.org/github/Andrey-Kosov/Projects/blob/main/churn_prediction_telecom_company/churn_prediction.ipynb)
+  - **Key points:** Churn prediction, Data Analysis, Machine Learning, Business Decisions, Data Visualisation
+  - **Libraries used:** NumPy, Pandas, Plotly Express, NumPy, Seaborn, Skearn
+  - **Models reviewed:** RandomForestClassifier, LogisticRegression, LinghtGBM, XGBClassifier
+
 - [**Car price valuation model**](https://nbviewer.jupyter.org/github/Andrey-Kosov/Projects/blob/main/car_price_valuation_model/car_price_evaluation.ipynb)
   - **Key points:** Gradient boosting, Gradient descent, Data Preprocessing, Cross-validation, Machine Learning
   - **Libraries used:** Pandas, Numpy, Matplotlib, Scikit-Learn, Plotly Express, Seaborn
